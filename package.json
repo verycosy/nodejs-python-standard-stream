@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-python-standard-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jinho Jang <verycosy@kakao.com>",
+  "license": "ISC"
+}
